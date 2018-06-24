@@ -1,0 +1,8 @@
+{
+    "name": "com.uap.defaultplayabes",
+    "displayName": "Default Playables",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "See https://assetstore.unity.com/packages/essentials/default-playables-95266",
+    "dependencies": { }
+}
