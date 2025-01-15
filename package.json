@@ -1,8 +1,22 @@
 {
     "name": "com.uap.defaultplayables",
+    "version": "1.9.0",
     "displayName": "Default Playables",
-    "version": "0.0.1",
-    "unity": "2018.1",
+    "description": "This package includes both the Timeline Playables Wizard and a number of example Playables for you to use with Timeline.",
+    "unity": "2020.1",
     "description": "See https://assetstore.unity.com/packages/essentials/default-playables-95266",
-    "dependencies": { }
+    "dependencies": { },
+    "keywords": [
+      "animation",
+      "cutscene",
+      "playable",
+      "timeline"
+    ],
+  "author": {
+    "name": "Unity Technologies"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UnityAssetPackages/DefaultPlayables.git"
+  }
 }
